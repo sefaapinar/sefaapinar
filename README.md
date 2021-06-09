@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, Welcome to my Work Warehouse.👋 
 
-<!--
-**sefaapinar/sefaapinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Sefanur Pinar, I am a student of management information systems. I'm constantly learning new technologies and improving myself. I'm following the technology closely. :student::computer:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
