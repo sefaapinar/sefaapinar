@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Work Warehouse.👋 
 
-My name is Sefanur Pinar, I am a student of management information systems. I'm constantly learning new technologies and improving myself. I'm following the technology closely. :student::computer:
+My name is Sefanur Pinar, I am a Management Information System graduate. I'm constantly learning new technologies and improving myself. I'm following the technology closely. :student::computer:
 
 Contact with me via these platforms! 
 
