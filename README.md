@@ -17,7 +17,7 @@ Contact with me via these platforms!
 
 
 ## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sefaapinar=anuraghazra&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/sefaapinar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/sefaapinar/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 
