@@ -18,6 +18,6 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sefaapinar=anuraghazra&show_icons=true&theme=radical)
 
 
