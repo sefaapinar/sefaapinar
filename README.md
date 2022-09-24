@@ -18,14 +18,6 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sefaapinar&count_private=true&show_icons=true&theme=tokyonight">
-</p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaapinar&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
 
-</p>
 
 
