@@ -17,7 +17,6 @@ Contact with me via these platforms!
 
 
 ## 📊 GitHub Stats
-![](https://raw.githubusercontent.com/sefaapinar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sefaapinar/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hikmetnri&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmetnri&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
