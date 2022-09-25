@@ -18,5 +18,6 @@ Contact with me via these platforms!
 
 ## 📊 GitHub Stats
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hikmetnri&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img align="right" alt="GIF" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="385" height="355" />
   
 
