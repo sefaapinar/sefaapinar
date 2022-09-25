@@ -15,9 +15,3 @@ Contact with me via these platforms!
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a></p>
 
 
-
-## 📊 GitHub Stats
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hikmetnri&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img align="top" alt="GIF" src="https://www.hareketligifler.net/data/media/56/bilgisayar-hareketli-resim-0004.gif" width="250" height="200" margin-top = 15px/>
-  
-
