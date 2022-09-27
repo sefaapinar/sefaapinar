@@ -4,7 +4,7 @@ My name is Sefa Pinar, I am a Management Information System graduate. I'm consta
 
 Contact with me via these platforms! 
 
-  <a href="https://www.linkedin.com/in/sefanur-p%C4%B1nar/" target="_blank" rel="nofollow"><img alt="Benginur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sefanurp%C4%B1nar/" target="_blank" rel="nofollow"><img alt="Benginur's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sefanur.pinar@gmail.com" target="_blank" rel="nofollow"><img alt="Benginur's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   ## 🛠 Technologies & Tools 
