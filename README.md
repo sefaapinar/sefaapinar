@@ -15,3 +15,5 @@ Contact with me via these platforms!
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sefaapinar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<a href="https://github.com/sefaapinar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefaapinar&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
